@@ -1,0 +1,50 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body,html {
+	background: #FFF8E7;
+	width: 100%;
+	height: 100%;	
+}
+
+#c {
+	background: #f1f1ef;
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+	display: block;
+	border-top: none;
+}
+#top {
+	width: 100%;
+	padding-top: 20px;
+	height:auto;
+	background: #f1f1ef
+}
+
+#images {
+position: relative;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 20%;
+height: 20%;
+max-width: 100%;
+}
+
+
+
+canvas {
+	background: #FFF8E7;
+	position: relative;
+	width: 100%;
+	height: auto;
+	margin: 0 auto;
+	display: block;
+}
+
+th {
+	border: 2px solid white;
+}
